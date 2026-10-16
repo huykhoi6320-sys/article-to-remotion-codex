@@ -1,0 +1,13 @@
+{
+  "title": "Bản tin mẫu",
+  "source": "DEMO • Không phải tin thật",
+  "sourceUrl": "https://example.com/article",
+  "scenes": [
+    {"kicker":"BẢN TIN 60 GIÂY", "headline":"Một bài báo, một video", "body":"Dán URL bài báo để bắt đầu tạo kịch bản video.", "durationSeconds":10},
+    {"kicker":"BƯỚC 1", "headline":"Đọc nguồn gốc", "body":"Trích xuất và kiểm tra nội dung bài báo.", "durationSeconds":10},
+    {"kicker":"BƯỚC 2", "headline":"Tóm tắt rõ ràng", "body":"Phân chia thông tin thành các cảnh ngắn dễ hiểu.", "durationSeconds":10},
+    {"kicker":"BƯỚC 3", "headline":"Thiết kế chuyển động", "body":"Remotion dựng layout dọc 9:16 có hoạt ảnh.", "durationSeconds":10},
+    {"kicker":"BƯỚC 4", "headline":"Thêm giọng đọc", "body":"Có thể tạo giọng đọc tiếng Việt và nhạc có bản quyền phù hợp.", "durationSeconds":10},
+    {"kicker":"HOÀN TẤT", "headline":"Xuất MP4", "body":"Kiểm tra video rồi chia sẻ lên Shorts hoặc TikTok.", "durationSeconds":10}
+  ]
+}
